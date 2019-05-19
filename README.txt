@@ -1,3 +1,5 @@
 # CoinLockerSystem
 binはクラスファイルが入っているディレクトリ
 srcはプログラムファイルが入っているディレクトリ
+
+src/systemをダウンロード推奨
